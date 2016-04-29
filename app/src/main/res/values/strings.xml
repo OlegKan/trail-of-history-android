@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">trail of history</string>
+
+    <!-- activities -->
+    <string name="edit_point_of_interest">Edit Point of Interest</string>
+
+    <!-- menu items -->
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+
+    <string name="empty_error">Field cannot be empty</string>
+    <string name="get_coordinates">Get coordinates</string>
+    <string name="latitude_short">lat.</string>
+    <string name="longitude_short">long.</string>
+    <string name="points_of_interest">Points of Interests</string>
+
+    <string name="accuracy">Accuracy</string>
+    <string name="enough">Enough</string>
+    <string name="getting_current_location">Getting current location…</string>
+    <string name="location_service_not_available">Location service is not available.</string>
+    <string name="meters">meters</string>
+    <string name="tap_again_to_edit">Tap again to edit</string>
+
+    <string name="share_with">Share with</string>
+    <string name="turn_on">Turn On</string>
+    <string name="permission_access_fine_location">Location permission is needed to get current location.</string>
+
 </resources>
